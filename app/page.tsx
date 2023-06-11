@@ -11,7 +11,7 @@ export default function Home() {
       <br />
       <Stuff />
       <br></br>
-      <Testimonials />
+      <Testimonials />asdasd
     </main>
   );
 }
